@@ -3,7 +3,7 @@
 ### 🖥️ Atualmente cursando Graduação em Ciências da Computação
 ### ⏳ Buscando ser programador Backend
 
-[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://wwwrodeghiero.cristian@gmail.com)
+[![Blog](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://rodeghiero.cristian@gmail.com)
 
 
 ![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=crodegheiro&show_icons=true&theme=transparent)
